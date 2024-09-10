@@ -1,4 +1,4 @@
-name: Go Build Workflows
+name: Go Build Workflow
 
 on:
   push:
